@@ -13,6 +13,7 @@
 		F29798AF2A7DE87F00208E9F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F29798AD2A7DE87F00208E9F /* Main.storyboard */; };
 		F29798B12A7DE88000208E9F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F29798B02A7DE88000208E9F /* Assets.xcassets */; };
 		F29798B42A7DE88000208E9F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F29798B22A7DE88000208E9F /* LaunchScreen.storyboard */; };
+		F29798BC2A7E742300208E9F /* RedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29798BB2A7E742300208E9F /* RedViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F29798B02A7DE88000208E9F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F29798B32A7DE88000208E9F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F29798B52A7DE88000208E9F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F29798BB2A7E742300208E9F /* RedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RedViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				F29798A72A7DE87F00208E9F /* AppDelegate.swift */,
 				F29798A92A7DE87F00208E9F /* SceneDelegate.swift */,
 				F29798AB2A7DE87F00208E9F /* ViewController.swift */,
+				F29798BB2A7E742300208E9F /* RedViewController.swift */,
 				F29798AD2A7DE87F00208E9F /* Main.storyboard */,
 				F29798B02A7DE88000208E9F /* Assets.xcassets */,
 				F29798B22A7DE88000208E9F /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F29798BC2A7E742300208E9F /* RedViewController.swift in Sources */,
 				F29798AC2A7DE87F00208E9F /* ViewController.swift in Sources */,
 				F29798A82A7DE87F00208E9F /* AppDelegate.swift in Sources */,
 				F29798AA2A7DE87F00208E9F /* SceneDelegate.swift in Sources */,
